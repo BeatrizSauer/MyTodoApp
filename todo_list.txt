@@ -1,0 +1,5 @@
+study pyhton
+wake up
+get groceries
+have lunch
+buy cookies
