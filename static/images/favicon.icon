@@ -1,7 +1,7 @@
 body {
     color: darkslategray;  /* default font color */
     font-family: Arial, sans-serif;
-    background-image: url("../images/computer.jpeg");
+    background-image: url("../images/Designer02.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
