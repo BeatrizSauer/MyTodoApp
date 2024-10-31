@@ -1,5 +1,2 @@
-# MyTodoapp
-todo_list = []
-todo_list.append("Buy milk")
-todo_list.append("Learn more about Azure")
-todo_list.append("Complete first Python project")
+# My Todo App
+This repository shows the code I from the EveryoneCanCode Workshop from Microsoft
